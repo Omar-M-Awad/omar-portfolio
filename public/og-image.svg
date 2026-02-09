@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f172a"/>
+
+  <g fill="white" font-family="Inter, Helvetica, Arial, sans-serif">
+    <text x="80" y="200" font-size="72" font-weight="700">
+      Omar Awad
+    </text>
+
+    <text x="80" y="280" font-size="42" font-weight="500">
+      Analytics Engineer
+    </text>
+
+    <text x="80" y="340" font-size="42" font-weight="500">
+      Data Systems Builder
+    </text>
+
+    <text x="80" y="440" font-size="32" font-weight="400">
+      Revanta • CryptoPulse
+    </text>
+  </g>
+</svg>
