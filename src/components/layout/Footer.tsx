@@ -1,9 +1,25 @@
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="container">
-        <p>© {new Date().getFullYear()} Omar Awad. All rights reserved.</p>
+      <div className="footer-links">
+        <a
+          href="https://github.com/Omar-M-Awad"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/eng-omar-awad"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
       </div>
+
+      <p>© 2026 Omar Awad. All rights reserved.</p>
     </footer>
   )
 }

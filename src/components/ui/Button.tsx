@@ -1,9 +1,10 @@
 interface Props {
-  text: string
+  children: React.ReactNode
+  variant?: "primary" | "secondary"
 }
 
-const Button = ({ text }: Props) => {
-  return <button className="btn">{text}</button>
+const Button = ({ children, variant = "primary" }: Props) => {
+  return <button className={`btn ${variant}`}>{children}</button>
 }
 
 export default Button

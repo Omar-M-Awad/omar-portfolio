@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <span className="logo">Omar Awad</span>
-        <span className="nav-role">Analytics Engineer</span>
+        <span className="nav-role"> </span>
       </div>
     </nav>
   )
