@@ -17,4 +17,12 @@ export const projects: Project[] = [
     stack: ["Python", "SQLite", "Power BI", "APIs"],
     github: "https://github.com/Omar-M-Awad/CryptoPulse",
   },
+{
+    title: "Omnistal",
+    tagline: "AI-Driven Workforce Retention Intelligence",
+    description:
+      "A predictive HR platform using XGBoost to forecast employee attrition with 87% accuracy, identifying high-risk individuals and quantifying potential retention ROI.",
+    stack: ["Python", "XGBoost", "Power BI", "Machine Learning"],
+    github: "https://github.com/Omar-M-Awad/Omnistal",
+  },
 ]
