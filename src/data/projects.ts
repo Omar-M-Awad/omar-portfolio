@@ -25,4 +25,12 @@ export const projects: Project[] = [
     stack: ["Python", "XGBoost", "Power BI", "Machine Learning"],
     github: "https://github.com/Omar-M-Awad/Omnistal",
   },
+{
+  title: "SalesScope",
+  tagline: "Global Sales & Operational Intelligence Dashboard",
+  description:
+    "A 3-page Power BI suite surfacing profit-bleeding sub-categories and regional return concentrations, enabling data-driven discount policy adjustments to protect global margins.",
+  stack: ["Power BI", "Excel", "Data Modeling"],
+  github: "https://github.com/Omar-M-Awad/SalesScope",
+},
 ]
